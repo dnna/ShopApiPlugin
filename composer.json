@@ -1,5 +1,5 @@
 {
-    "name": "sylius/shop-api-plugin",
+    "name": "dnna/sylius-shop-api-plugin",
     "type": "sylius-plugin",
     "description": "Shop API for Sylius E-Commerce.",
     "license": "MIT",
